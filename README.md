@@ -4,8 +4,8 @@ A modern, fully responsive and animated landing page for an AI Writing Assistant
 
 📸 Preview
 
-Live Demo: YOUR_VERCEL_DEPLOYMENT_LINK_HERE
-GitHub Repo: YOUR_REPO_LINK_HERE
+Live Demo: https://flowai-landing-one.vercel.app/
+GitHub Repo: https://github.com/darkrazz1521/flowai-landing
 
  Features
 
